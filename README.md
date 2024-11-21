@@ -49,6 +49,6 @@ Run the simulation:
 - **Probability Calculation**: Simulates attack outcomes based on attack accuracy.
 
 ## Additional Documentation
-For a more detailed explanation of the implementation and analysis, please refer to the report included in the repository.
+For a more detailed explanation of the implementation and analysis, please refer to my report included in the repository.
 
 ---
